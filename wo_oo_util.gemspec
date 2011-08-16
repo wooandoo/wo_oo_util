@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{wo-oo-util}
+  s.name = %q{wo_oo_util}
   s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -20,15 +20,15 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/wo-oo-util.rb",
-    "spec/spec_helper.rb",
-    "spec/wo-oo-util_spec.rb"
+    "lib/wo_oo/util/code_generator.rb",
+    "spec/spec_helper.rb"
   ]
-  s.homepage = %q{http://github.com/wooandoo/wo-oo-util}
+  s.homepage = %q{http://github.com/wooandoo/wo_oo_util}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.6}

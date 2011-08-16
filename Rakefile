@@ -14,8 +14,8 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "wo-oo-util"
-  gem.homepage = "http://github.com/wooandoo/wo-oo-util"
+  gem.name = "wo_oo_util"
+  gem.homepage = "http://github.com/wooandoo/wo_oo_util"
   gem.license = "MIT"
   gem.summary = %Q{Few utilities in ruby.}
   gem.description = %Q{Few utilities in ruby, like a code generator (readable by human or computer).}

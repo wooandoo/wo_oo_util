@@ -1,6 +1,6 @@
-= wo-oo-util
+= wo_oo_util
 
-Description goes here.
+Few ruby utilities.
 
 == Contributing to wo-oo-util
  
@@ -14,6 +14,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 Frédéric Mascaro. See LICENSE.txt for
+Copyright (c) 2011 Frédéric Mascaro. See LICENSE.txt for
 further details.
 
