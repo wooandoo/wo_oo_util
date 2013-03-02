@@ -26,7 +26,10 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/wo_oo/util/code_generator.rb",
-    "spec/spec_helper.rb"
+    "lib/wo_oo_util.rb",
+    "spec/spec_helper.rb",
+    "spec/wo_oo_util_spec.rb",
+    "wo_oo_util.gemspec"
   ]
   s.homepage = %q{http://github.com/wooandoo/wo_oo_util}
   s.licenses = [%q{MIT}]
